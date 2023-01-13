@@ -1,0 +1,12 @@
+{
+  "name": "johnrenzexamsetb",
+  "version": "1.0.0",
+  "description": "ingat ka permi sir mark. nakalimutan ko na sir process, tagal din walang laboratory tas wala pang personal desktop",
+  "main": "add.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
